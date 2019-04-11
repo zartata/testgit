@@ -1,4 +1,4 @@
 <?php
-echo "nouveau fichier";
+echo "nouveau fifichier";
 // et je rajoute qquechose
 ?>
